@@ -2,6 +2,7 @@
   "ip": "DragonBall-J.aternos.me",
   "port": "35234",
   "name": "Goku",
+  "version": "26.63.1" 
   "auto-night-skip": "false",
   "loginmsg": "Goku Joining"
 }
